@@ -17,4 +17,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yutteee&count_private=true&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-For more information, please see my portfolio：https://yutteee-portfolio.netlify.app/ .
+:monocle_face: For more information, please see my portfolio：https://yutteee-portfolio.netlify.app/ .
